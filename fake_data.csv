@@ -1,0 +1,101 @@
+﻿id,name,gender,age,height_cm,weight_kg,country,position
+1,Amy,0,18,160,48,Taiwan,Student
+2,John,1,25,175,75,United States,Programmer
+3,Sarah,0,33,168,62,Canada,Doctor
+4,David,1,42,180,85,Australia,Engineer
+5,Emily,0,29,162,52,United Kingdom,Teacher
+6,Michael,1,27,185,80,Germany,Athlete
+7,Rachel,0,21,170,56,Japan,Model
+8,Matthew,1,39,178,70,Ireland,Salesperson
+9,Samantha,0,31,175,64,France,Chef
+10,Benjamin,1,48,182,88,New Zealand,Lawyer
+11,Olivia,0,26,165,55,Spain,Artist
+12,William,1,23,170,72,Sweden,Musician
+13,Isabella,0,37,175,65,Italy,Scientist
+14,Christopher,1,44,183,90,China,Consultant
+15,Ava,0,20,157,50,Mexico,Writer
+16,Joshua,1,29,178,75,Brazil,Actor
+17,Charlotte,0,24,163,53,South Africa,Entrepreneur
+18,Nicholas,1,35,185,82,Russia,Pilot
+19,Victoria,0,28,168,60,India,Designer
+20,Ethan,1,32,180,85,Singapore,Entrepreneur
+21,Madison,0,27,170,62,Canada,Athlete
+22,Alexander,1,31,182,80,United States,Musician
+23,Harper,0,25,165,57,United States,Social Worker
+24,Elijah,1,29,180,79,Canada,Scientist
+25,Scarlett,0,33,170,60,Australia,Writer
+26,Jackson,1,22,175,72,United Kingdom,Architect
+27,Chloe,0,27,162,52,Japan,Chef
+28,Sebastian,1,36,188,85,Germany,Fitness Trainer
+29,Elizabeth,0,24,168,58,Ireland,Software Engineer
+30,Mason,1,28,177,77,France,Business Analyst
+31,Grace,0,31,163,54,New Zealand,Psychologist
+32,Aiden,1,26,172,68,Spain,Musician
+33,Amelia,0,30,170,61,Sweden,Project Manager
+34,Liam,1,34,183,87,Italy,Doctor
+35,Ella,0,29,168,59,China,Entrepreneur
+36,Lucas,1,27,181,78,Mexico,Artist
+37,Stella,0,23,165,54,Brazil,Fashion Designer
+38,Gabriel,1,40,175,85,South Africa,Accountant
+39,Madison,0,28,173,63,Russia,Marketing
+40,Daniel,1,33,179,82,India,Engineer
+41,Sofia,0,26,160,50,Singapore,Teacher
+42,Henry,1,29,186,88,Taiwan,Consultant
+43,Isabella,0,32,167,55,Portugal,Event Planner
+44,Alexander,1,30,181,77,Argentina,Travel Blogger
+45,Victoria,0,28,174,63,Greece,Graphic Designer
+46,William,1,35,185,85,Norway,Management
+47,Natalie,0,27,160,50,Thailand,Makeup Artist
+48,Benjamin,1,26,178,72,Egypt,Sales Representative
+49,Ava,0,29,169,58,Netherlands,Human Resources
+50,Noah,1,31,182,80,Philippines,Writer
+51,Olivia,0,27,168,57,Japan,Social Media Manager
+52,Ethan,1,29,175,74,United States,Data Analyst
+53,Ava,0,24,162,51,Japan,Account Manager
+54,Mason,1,28,180,82,Canada,Web Developer
+55,Sophia,0,31,170,61,United Kingdom,Digital Marketer
+56,Logan,1,26,172,70,Canada,Graphic Designer
+57,Mia,0,30,165,55,Japan,Customer Service
+58,Jackson,1,33,183,87,United States,Software Developer
+59,Isabella,0,28,173,62,Canada,Operations Manager
+60,William,1,35,180,80,United Kingdom,Marketing Manager
+61,Charlotte,0,26,170,58,United States,Content Creator
+62,James,1,34,185,89,Canada,Project Manager
+63,Amelia,0,29,168,56,United Kingdom,Sales Manager
+64,Oliver,1,31,177,76,United States,Public Relations
+65,Emma,0,33,165,54,United Kingdom,Event Coordinator
+66,Benjamin,1,30,179,78,Canada,UX Designer
+67,Ava,0,27,166,53,United States,Copywriter
+68,Lucas,1,28,181,80,United Kingdom,UI Designer
+69,Harper,0,25,163,49,United States,Sales Representative
+70,Elijah,1,29,180,81,Canada,Business Analyst
+71,Lily,0,26,169,58,Australia,Marketing Manager
+72,Alexander,1,33,180,84,United States,Data Analyst
+73,Chloe,0,29,170,59,Australia,Account Manager
+74,William,1,32,183,85,United Kingdom,Web Developer
+75,Mia,0,27,167,54,Australia,Social Media Manager
+76,James,1,30,179,78,United States,Software Developer
+77,Isabella,0,24,165,52,Australia,Customer Service
+78,Benjamin,1,35,182,81,United Kingdom,Graphic Designer
+79,Ava,0,28,172,60,Australia,Operations Manager
+80,Olivia,1,31,168,57,United States,Digital Marketer
+81,Jackson,0,34,185,90,Australia,Project Manager
+82,Sophia,1,26,171,61,United Kingdom,Sales Manager
+83,Logan,0,29,175,75,United States,Content Creator
+84,Amelia,1,33,170,58,Australia,Marketing Manager
+85,Mason,0,27,181,82,United Kingdom,Data Analyst
+86,Harper,1,28,168,56,United States,Account Manager
+87,Oliver,0,31,178,76,Australia,Web Developer
+88,Charlotte,1,25,172,63,United Kingdom,Social Media Manager
+89,Ethan,0,29,180,80,United States,Software Developer
+90,Lily,1,27,165,52,Australia,Customer Service
+91,William,0,33,183,85,United Kingdom,Graphic Designer
+92,Ava,1,26,172,60,United States,Operations Manager
+93,Mia,0,30,167,54,Australia,Digital Marketer
+94,James,1,35,179,78,United Kingdom,Project Manager
+95,Bob,1,23,175,68,USA,Engineer
+96,Chris,1,32,180,80,UK,Salesperson
+97,David,1,27,172,65,Japan,Chef
+98,Emily,0,31,168,55,Australia,Designer
+99,Frank,1,29,178,72,Canada,Accountant
+100,Grace,0,25,163,52,Singapore,Marketer
